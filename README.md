@@ -5,7 +5,7 @@
 
 <h2 align="center">Análise e Desenvolvimento de Sistemas</h2>
 <h3 align="center">Sistemas Operacionais I</h3>
-<h4>Semana 04 - Exercício 01</h4>
+<h4>Semana 04 - Exercício 05</h4>
 
 <h4>
   
